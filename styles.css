@@ -237,7 +237,7 @@ Modal
   position: relative;
 }
 .img-meme{
-  width: fit-content;
+  width: 70%;
   height: fit-content;
   border-radius: var(--radius);
 }
